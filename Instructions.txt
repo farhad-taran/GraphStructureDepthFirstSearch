@@ -1,0 +1,32 @@
+Find the treasure
+One day young John Kowalski found an old secret map in the attic of his grandparents. He noticed a two marked places on the map with the descriptions “the platinum” and “the gold”.  Without thinking too much he starts his journey to the treasures. Unfortunately the road to the treasures is long and complicated, so he decides to find only one treasure.
+Your job is to help John to find the nearest treasure (platinum or gold).
+
+Input data (via standard input):
+The map (square) with marked start point (‘s’), platinum treasure (‘p’), gold treasure (‘g’), obstacles (‘o’) and an empty fields (‘e’). The maximum size of the map (square) is 1000x1000.
+Output (via standard output):
+The nearest treasure and the minimum number of steps needed to go from the start point to it. One step is a move from one field to one of the neighboring fields or one of the adjacent fields on the same diagonal. Step can’t be done on the obstacles fields. In case when the distance to both treasures is the same, then just print one of them.
+Sample 1:
+e g e
+s e e
+e e p
+
+Result:
+g 1
+
+Sample 2:
+e e p
+s o e
+e o g
+
+Result:
+p 2
+
+Sample 3:
+s e e o
+e o o e
+o o e o
+p o e g
+
+Result:
+g 5

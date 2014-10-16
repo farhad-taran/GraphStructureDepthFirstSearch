@@ -1,0 +1,6 @@
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\obj\Debug\FindTheTreasure.csprojResolveAssemblyReference.cache
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\bin\Debug\FindTheTrasure.exe.config
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\bin\Debug\FindTheTrasure.exe
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\bin\Debug\FindTheTrasure.pdb
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\obj\Debug\FindTheTrasure.exe
+c:\users\ft\documents\visual studio 2013\Projects\FindTheTrasure\FindTheTrasure\obj\Debug\FindTheTrasure.pdb
